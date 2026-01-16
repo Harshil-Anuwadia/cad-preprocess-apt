@@ -1,24 +1,17 @@
-Architectures: amd64
-Codename: stable
-Components: main
-Date: Fri, 16 Jan 2026 07:32:39 +0000
-Description: CAD Preprocessor APT Repository
-Label: CAD Preprocessor
-Origin: cad-preprocess
-Suite: stable
+Date: Fri, 16 Jan 2026 07:41:42 +0000
 MD5Sum:
- 13d80a601d1eeaa4d45e1f182de743f0              199 Release
- 4b0b172177ce5e4e40eab345c1b87bc2             1285 main/binary-amd64/Packages
- 20d1baed28969415526b1a76ffc06d4b              765 main/binary-amd64/Packages.gz
+ 510591e44f647357dc4d36bf26a0f9dd               38 Release
+ b615d2699cc9db2f3ddbe6cf1a86cde1             1351 main/binary-amd64/Packages
+ f08f465ab035435d72811e6032c40f26              764 main/binary-amd64/Packages.gz
 SHA1:
- 7aa790d7876b4eb29cd109f5b0aed3311b37dbb3              199 Release
- 30e309906877c17396b9f0168bbc3940b789c19b             1285 main/binary-amd64/Packages
- afa7dd05cc3e26c252543c1a5757632a5e362456              765 main/binary-amd64/Packages.gz
+ 6a63cf7e3538634b18a0d7165d4240145af59e97               38 Release
+ 80654f974bff17cb117c69d6ef7040904c6fdbc6             1351 main/binary-amd64/Packages
+ dfe62f4d61daceed920b8aed25f2b5ecfe230250              764 main/binary-amd64/Packages.gz
 SHA256:
- 825716b67652cb9970614582231a7b84801f792361dfb49183ebbf1210098cda              199 Release
- 14ceeb1eb80ca17fcdaf1e5b20a4352831a62d20aed785837529d29bfd81df8e             1285 main/binary-amd64/Packages
- 82812617d642a8e719096ceff42b14845cf07f96e0c5f91e94cf1f2f8109db23              765 main/binary-amd64/Packages.gz
+ b91ee26637c365fef6a56208ea512509fa2e8ed1790fb9915a85a419f3f9ef6d               38 Release
+ bc2c07813a8b907c6429129d0fad54eff3e0b2f80a72bbcc5a2513a3202c33f5             1351 main/binary-amd64/Packages
+ 14b243d927dddb4f9b6c6533acb13c76cd7170259cddd95317e21c304ae10ed7              764 main/binary-amd64/Packages.gz
 SHA512:
- 51abcbd8474e6b70459c345915c4053ec53db316bbdcd9c42a89f65291256954e3248a082069829b0f36e1697bc69d5d51e051a3e8bd59fac6612aaba97ca6ae              199 Release
- 65f6d0fcf8c646cb2ef071dc6de3385dab15429488104bf90b0b6154719bc3344ec740c6349a2ffd501c97bd67de60c2252a3de80cfe735e147768a2b687412b             1285 main/binary-amd64/Packages
- 585966a657dcd9e3e239c2bcd020f5e20b9f89f6d1424071222d7b41df5b8c8fa8b95d37aa959dd3e6bf7013fa296c68d062ec103f8197f16358399503d81db8              765 main/binary-amd64/Packages.gz
+ 6b6fc63b71258165de51964f31cf2faea09fc8a5572799113dcb208c64b504147a93afd87efb34049729666cd2e44eade1d089e29703c3fa76a2e08ac3247e38               38 Release
+ 5af0df68de8b7d6255584e63afd786b2bef1a286c53fad2064bf78c1668c752b7c98e447295855e6f6dd012259c48225cdd93c7732261cc7fdf3cf6a37be9eed             1351 main/binary-amd64/Packages
+ 9661662cb065ef05448c29fac347a685d2c5c7a9b82566cfe9b0f397093c7771978027fbb60aaf11c18a5a4b1e4d2ad90a2aafe2fdf0b9d39633d7967eea9afc              764 main/binary-amd64/Packages.gz
