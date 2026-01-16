@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 16 Jan 2026 07:13:57 +0000
+Description: CAD Preprocessor APT Repository
+Label: CAD Preprocessor
+Origin: cad-preprocess
+Suite: stable
+MD5Sum:
+ a31946723dc2f2d51ca1831716f69f5d              199 Release
+ 4b0b172177ce5e4e40eab345c1b87bc2             1285 main/binary-amd64/Packages
+ e957d581149dd3e0161666e8abef58f1              765 main/binary-amd64/Packages.gz
+SHA1:
+ 51277bda614bb2736b57a7d4750314c0e12dea83              199 Release
+ 30e309906877c17396b9f0168bbc3940b789c19b             1285 main/binary-amd64/Packages
+ 11bdd1b86f2a979b71e778df6f2ad39266bc9a54              765 main/binary-amd64/Packages.gz
+SHA256:
+ 15a5a062002cd5cd1102c92939674f20dfefdbbd607b777fa0283199ba3c9404              199 Release
+ 14ceeb1eb80ca17fcdaf1e5b20a4352831a62d20aed785837529d29bfd81df8e             1285 main/binary-amd64/Packages
+ 407d5e36bf4062ea22ce21bcebfc84125bcba48a181a7abf73827a5a52f49a0d              765 main/binary-amd64/Packages.gz
+SHA512:
+ dd52acb235e0e9e0f663d3c5c7d76ed0d8784efb577ede458422467a1687d8b1ed04353d81245c307a76c119570127efd1fb4029d13c844d2c82392f496aec8c              199 Release
+ 65f6d0fcf8c646cb2ef071dc6de3385dab15429488104bf90b0b6154719bc3344ec740c6349a2ffd501c97bd67de60c2252a3de80cfe735e147768a2b687412b             1285 main/binary-amd64/Packages
+ 356e53c160e055ea44ddb29ebb5bce43d63395fc48380cf6ae515e8d899c71de1cfc75c1265fc522398d3a2bb4a7aa7abf7f00afb4520572923e6acf19b57b67              765 main/binary-amd64/Packages.gz

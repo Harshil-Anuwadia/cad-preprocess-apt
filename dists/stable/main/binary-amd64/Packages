@@ -1,0 +1,36 @@
+Package: cad-preprocess
+Version: 0.1.0
+Architecture: all
+Maintainer: Harshil Anuwadia <harshil@example.com>
+Installed-Size: 638796
+Depends: python3 (>= 3.9)
+Filename: pool/main/c/cad-preprocess/cad-preprocess_0.1.0_all.deb
+Size: 132342674
+MD5sum: 44bd135cea030d82e574602dfbd84f8e
+SHA1: 336b8553c0da913a2241915cb6481dfad908ecc2
+SHA256: 3c3f1855bc9478cf0847ae0a621cc03abaf3a2fc82a7c01350999cd71a227389
+Section: python
+Priority: optional
+Homepage: https://github.com/Harshil-Anuwadia/cad-preprocess
+Description: DICOM preprocessing library for CAD systems (fully bundled)
+ CAD Preprocess is a Python library for standardized DICOM image
+ preprocessing in Computer-Aided Detection/Diagnosis systems.
+ .
+ This package includes ALL dependencies bundled:
+  - numpy, scipy, pillow, pandas, python-dateutil (data processing)
+  - pydicom with JPEG decompression plugins
+  - python-gdcm (additional DICOM codec support)
+  - scikit-image (advanced image operations)
+  - PyYAML, click (configuration and CLI)
+  - PyQt6 (DICOM Explorer GUI)
+ .
+ Supports compressed DICOM formats:
+  - JPEG Lossless (Process 14)
+  - JPEG 2000
+  - Other standard compressions
+ .
+ Usage:
+  CLI: cad-preprocess -i ./dicoms -o ./output
+  Explorer: cad-preprocess-explorer
+  Python: from cad_preprocess import preprocess
+
