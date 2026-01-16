@@ -141,7 +141,7 @@
                 <span class="step-number">1</span>
                 <strong>Add the GPG key</strong>
             </div>
-            <pre><code>curl -fsSL https://YOUR_USERNAME.github.io/cad-preprocess-apt/cad-preprocess.gpg \
+            <pre><code>curl -fsSL https://harshil-anuwadia.github.io/cad-preprocess-apt/cad-preprocess.gpg \
   | sudo gpg --dearmor -o /usr/share/keyrings/cad-preprocess.gpg</code></pre>
             
             <div class="step">
@@ -149,7 +149,7 @@
                 <strong>Add the repository</strong>
             </div>
             <pre><code>echo "deb [signed-by=/usr/share/keyrings/cad-preprocess.gpg] \
-  https://YOUR_USERNAME.github.io/cad-preprocess-apt stable main" \
+  https://harshil-anuwadia.github.io/cad-preprocess-apt stable main" \
   | sudo tee /etc/apt/sources.list.d/cad-preprocess.list</code></pre>
             
             <div class="step">
@@ -175,7 +175,7 @@ sudo apt install cad-preprocess</code></pre>
 
             <h2>Manual Download</h2>
             <p>You can also download the <code>.deb</code> package directly:</p>
-            <pre><code>wget https://YOUR_USERNAME.github.io/cad-preprocess-apt/pool/main/c/cad-preprocess/cad-preprocess_0.1.0_all.deb
+            <pre><code>wget https://harshil-anuwadia.github.io/cad-preprocess-apt/pool/main/c/cad-preprocess/cad-preprocess_0.1.0_all.deb
 sudo dpkg -i cad-preprocess_0.1.0_all.deb</code></pre>
 
             <h2>Links</h2>

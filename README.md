@@ -8,12 +8,12 @@ This repository hosts the APT packages for [CAD Preprocess](https://github.com/H
 
 ```bash
 # Add GPG key
-curl -fsSL https://YOUR_USERNAME.github.io/cad-preprocess-apt/cad-preprocess.gpg \
+curl -fsSL https://harshil-anuwadia.github.io/cad-preprocess-apt/cad-preprocess.gpg \
   | sudo gpg --dearmor -o /usr/share/keyrings/cad-preprocess.gpg
 
 # Add repository
 echo "deb [signed-by=/usr/share/keyrings/cad-preprocess.gpg] \
-  https://YOUR_USERNAME.github.io/cad-preprocess-apt stable main" \
+  https://harshil-anuwadia.github.io/cad-preprocess-apt stable main" \
   | sudo tee /etc/apt/sources.list.d/cad-preprocess.list
 
 # Install
@@ -24,7 +24,7 @@ sudo apt install cad-preprocess
 ### Add Repository (Unsigned - Development Only)
 
 ```bash
-echo "deb [trusted=yes] https://YOUR_USERNAME.github.io/cad-preprocess-apt stable main" \
+echo "deb [trusted=yes] https://harshil-anuwadia.github.io/cad-preprocess-apt stable main" \
   | sudo tee /etc/apt/sources.list.d/cad-preprocess.list
 
 sudo apt update
